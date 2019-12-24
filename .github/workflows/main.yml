@@ -1,0 +1,2 @@
+- name: HTTP client
+  uses: swinton/httpie.action@1.0.6
